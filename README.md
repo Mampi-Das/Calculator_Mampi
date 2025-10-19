@@ -5,11 +5,6 @@ This project demonstrates core web development skills — including **DOM manipu
 
 ---
 
-## 🚀 Live Demo
-🔗 [Click here to use the Calculator](https://mampi-das.github.io/Calculator_Mampi/)
-
----
-
 ## 📝 Project Overview
 This calculator allows users to perform basic arithmetic operations like **addition, subtraction, multiplication, and division** with a clean and minimal user interface.  
 It’s designed to be **user-friendly**, **responsive**, and **lightweight**, showcasing the fundamentals of **front-end development**.
