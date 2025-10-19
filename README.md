@@ -37,5 +37,3 @@ It’s designed to be **user-friendly**, **responsive**, and **lightweight**, sh
 
 ---
 
-## 🧩 Project Structure
-
